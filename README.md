@@ -3,4 +3,4 @@ Another Repository
 
 Hello!
 
-I'm here to learn Android app developing.
+I'm here to learn App developing.
